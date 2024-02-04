@@ -39,6 +39,7 @@ function step1(){
     s2.style.display = "none"
     s3.style.display = "none"
     s4.style.display = "none"
+    s5.style.display = "none"
 
     step_icon_1.style.backgroundColor = "hsl(206, 94%, 87%)" ;
     step_icon_2.style.backgroundColor = "transparent" ;
@@ -64,6 +65,7 @@ function step2(){
     s1.style.display = "none"
     s3.style.display = "none"
     s4.style.display = "none"
+    s5.style.display = "none"
 
     step_icon_2.style.backgroundColor = "hsl(206, 94%, 87%)" ;
     step_icon_1.style.backgroundColor = "transparent" ;
@@ -74,6 +76,7 @@ function step2(){
     step_icon_1p.style.color = "white";
     step_icon_3p.style.color = "white";
     step_icon_4p.style.color = "white";
+    s5.style.display = "none"
 }
 
 function step3(){
@@ -97,6 +100,7 @@ function step3(){
     s1.style.display = "none"
     s2.style.display = "none"
     s4.style.display = "none"
+    s5.style.display = "none"
 
     step_icon_3.style.backgroundColor = "hsl(206, 94%, 87%)" ;
     step_icon_1.style.backgroundColor = "transparent" ;
@@ -168,6 +172,7 @@ total = price
     s1.style.display = "none"
     s2.style.display = "none"
     s3.style.display = "none"
+    s5.style.display = "none"
 
     step_icon_4.style.backgroundColor = "hsl(206, 94%, 87%)";
     step_icon_1.style.backgroundColor = "transparent";
