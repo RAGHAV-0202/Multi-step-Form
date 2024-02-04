@@ -494,4 +494,11 @@ input:checked+.slider:before {
     .s2 .top p {
         padding-bottom: 20px;
     }
+    .sidebar{
+        background-size: 100%;
+        background-color: blue;
+        background-position: center;
+        background-size: cover;
+        background-position-y: 80%;
+    }
 }
